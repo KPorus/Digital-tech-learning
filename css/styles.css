@@ -107,7 +107,6 @@
 
 .explore{
     background: #F4FAFD;
-    border-radius: 5px;
 }
 
 span {
@@ -124,3 +123,46 @@ span {
     line-height: 2.4rem;
     color: #777777;
 }
+
+/* ===================== course part end ============= */
+
+/* ============ register part start ============== */
+
+#reg{
+    margin-bottom: 5rem;
+}
+
+.top-50 {
+    top: 40%!important;
+}
+
+/* =============== register part end =========== */
+
+/* ============= student part start ============= */
+
+.s-head-text{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 133%;
+    color: #1D1D1D;
+}
+
+.s-para{
+    font-size: 1rem;
+    line-height: 188%;
+    color: #777777;
+}
+
+#student{
+    margin-bottom: 5rem;
+}
+
+/* ================== student part end ============== */
+
+/* ================== QnA part start =================== */
+
+
+
+
+/* ================== QnA part end =================== */
