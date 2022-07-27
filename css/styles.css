@@ -11,7 +11,7 @@
 /* ============= navber part start ============= */
 
 .nav-button {
-    margin-left: 47%;
+    margin-left: 39%;
     text-align: -webkit-auto;
 }
 
@@ -53,3 +53,74 @@
     color: #FFFFFF;
 }
 
+/* ================= banner part end =============== */
+
+/* ================== course part start ============ */
+
+.course-head{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 38px;
+    color: #4A4A4A;
+}
+
+.course-para{
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 24px;
+    color: #777777;
+}
+
+.course-price{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.1rem;
+    line-height: 27px;
+    color: #289BDE;
+}
+
+/* ============== course part end =============== */
+
+/* ============== explore part start =============== */
+
+#explore{
+    margin-bottom: 5rem;
+}
+
+.explore-head {
+    margin-top: 3.3rem;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 133%;
+    color: #1D1D1D;
+}
+
+.explore-para, .explore-para2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 188%;
+    color: #777777;
+}
+
+.explore{
+    background: #F4FAFD;
+    border-radius: 5px;
+}
+
+span {
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    text-align: center;
+    color: #1D1D1D;
+}
+
+.counter-text {
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 2.4rem;
+    color: #777777;
+}
