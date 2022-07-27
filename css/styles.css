@@ -162,7 +162,19 @@ span {
 
 /* ================== QnA part start =================== */
 
+.common-h{
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 133%;
+    color: #1D1D1D;
+}
 
+.common-para {
+    padding: 0 206px 0 212px;
+    font-size: 1rem;
+    line-height: 188%;
+    color: #777777;
+}
 
 
 /* ================== QnA part end =================== */
