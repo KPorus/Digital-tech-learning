@@ -162,6 +162,10 @@ span {
 
 /* ================== QnA part start =================== */
 
+#QnA{
+    margin-bottom: 5rem;
+}
+
 .common-h{
     font-weight: 600;
     font-size: 2.5rem;
@@ -176,5 +180,22 @@ span {
     color: #777777;
 }
 
+.accordion-item {
+    margin-bottom: 1rem !important;
+}
+
+.item{
+    border: 1px solid #D5E5FB !important;
+    border-radius: 5px;
+}
+
 
 /* ================== QnA part end =================== */
+
+/* ================== company list part start ============== */
+
+#company{
+    margin-bottom: 4rem;
+}
+
+/* ================== company list part end ============== */
