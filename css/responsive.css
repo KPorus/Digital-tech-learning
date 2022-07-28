@@ -60,8 +60,19 @@
 @media (min-width:577px) and (max-width:768px) {
 
 
-    .c{
+    .c {
+        display: flex;
         margin-bottom: 1.6rem;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+
+    .course-img{
+        width: 33%;
+    }
+
+    .text{
+        width: 61%;
     }
 
     .reg-button .reg {
