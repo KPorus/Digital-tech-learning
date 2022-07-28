@@ -24,14 +24,14 @@
 
     .banner-text1 {
         font-size: 1.3rem;
-        line-height: 132%;
-        margin-bottom: 0.8rem!important;
+        line-height: 86%;
+        margin-bottom: 0.95rem!important;
     }
 
-    .banner-text2{
-        font-size: 1rem;
-        line-height: 100%;
-        margin-bottom: 1rem !important;
+    .banner-text2 {
+        font-size: 0.8rem;
+        line-height: 92%;
+        margin-bottom: 0.5rem !important;
     }
 
     .banner-button{
@@ -49,4 +49,54 @@
         line-height: 2rem;
         color: #777777;
     }
+
+    .btn {
+        line-height: 1.2 !important;
+        padding: 0.2375rem .5rem;
+        font-size: 0.9rem;
+    }
 }
+
+@media (min-width:577px) and (max-width:768px) {
+
+
+    .c{
+        margin-bottom: 1.6rem;
+    }
+
+    .reg-button .reg {
+        position: relative;
+        left: 37%;
+        top: -17px;
+    }
+
+    .reg-text{
+        padding-right:3rem ;
+    }
+
+    .reg-para {
+        padding-right: 3rem;
+    }
+
+    .common-para {
+        padding: 0 0px 0 0px;
+    }
+
+    .banner-text1 {
+        font-size: 1.4rem;
+        line-height: 132%;
+        margin-bottom: 1rem!important;
+    }
+
+    .banner-text2 {
+        font-size: 1rem;
+        line-height: 91%;
+        margin-bottom: 1rem !important;
+    }
+
+    .banner-button{
+        margin-bottom: 1rem !important;
+    }
+    
+}
+
