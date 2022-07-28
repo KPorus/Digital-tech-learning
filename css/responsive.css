@@ -21,4 +21,32 @@
     .text{
         padding:  0 0 0 26px;
     }
+
+    .banner-text1 {
+        font-size: 1.3rem;
+        line-height: 132%;
+        margin-bottom: 0.8rem!important;
+    }
+
+    .banner-text2{
+        font-size: 1rem;
+        line-height: 100%;
+        margin-bottom: 1rem !important;
+    }
+
+    .banner-button{
+        margin-bottom: 0rem !important;
+    }
+
+    .counter span {
+        font-size: 1.7rem;
+        line-height: 2rem;
+    }
+
+    .counter-text {
+        font-weight: 500;
+        font-size: 1rem;
+        line-height: 2rem;
+        color: #777777;
+    }
 }
