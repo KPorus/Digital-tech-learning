@@ -126,5 +126,17 @@
     .banner-text1 {
         font-size: 2.5rem;
     }
+
+    .text{
+        width: 68%;
+    }
+
+    .course-head {
+        line-height: 27px;
+    }
+
+    .course-para {
+        line-height: 20px;
+    }
     
 }
