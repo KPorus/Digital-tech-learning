@@ -111,3 +111,20 @@
     
 }
 
+
+@media (min-width:769px) and (max-width:991px) {
+    .reg-button .reg {
+        position: relative;
+        left: 40%;
+        top: -17px;
+    }
+
+    .common-para {
+        padding: 0 0px 0 0px;
+    }
+
+    .banner-text1 {
+        font-size: 2.5rem;
+    }
+    
+}
