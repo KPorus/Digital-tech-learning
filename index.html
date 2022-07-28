@@ -16,6 +16,9 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
         <div class="container">
           <a class="navbar-brand fs-2 fw-bold" href="#">Pro Edu</a>
+          <div class="nav-button2 d-sm-none d-md-block d-lg-none ms-auto pe-2">
+            <button class="btn btn-outline-primary me-auto" type="submit">Register</button>
+          </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -39,7 +42,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="#">Register</a>
               </li>
-              <div class="nav-button"><button class="btn btn-outline-primary me-auto" type="submit">Register</button></div>
+              <div class="nav-button d-sm-none d-md-none d-lg-block">
+                <button class="btn btn-outline-primary me-auto" type="submit">Register</button>
+              </div>
           </div>
         </div>
       </nav>
@@ -449,7 +454,7 @@
 
     <!-- ================== company list part start ============= -->
 
-    <section id="company">
+    <section id="company" class="d-none d-lg-block">
         <div class="container">
             <div class="common-header mb-3">
                 <div class="row">

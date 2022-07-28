@@ -10,6 +10,11 @@
 
 /* ============= navber part start ============= */
 
+.navbar-toggler-icon {
+    width: 1em !important;
+    height: 1em;
+}
+
 .nav-button {
     margin-left: 39%;
     text-align: -webkit-auto;
