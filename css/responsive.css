@@ -138,5 +138,21 @@
     .course-para {
         line-height: 20px;
     }
+
+    .courses-one{
+        padding-left: 5rem;
+    }
+    .course-button{
+        margin-right: 4rem;
+    }
     
+}
+
+@media (min-width:993px) and (max-width:1200px) {
+    .nav-button {
+        margin-left: 26% !important;
+        text-align: -webkit-auto;
+    }
+
+
 }
