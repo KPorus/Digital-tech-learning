@@ -154,5 +154,14 @@
         text-align: -webkit-auto;
     }
 
+    .counter-text {
+        font-size: 1rem;
+    }
+
+    .reg-button .reg {
+        position: absolute;
+        left: 50%;
+        top: 95px;
+    }
 
 }
