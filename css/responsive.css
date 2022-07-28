@@ -1,4 +1,12 @@
 @media (min-width:360px) and (max-width:576px) {
 
-    
+    .reg-button .reg {
+        position: relative;
+        left: 35%;
+        top: -17px;
+    }
+
+    .common-para {
+        padding: 0 ;
+    }
 }

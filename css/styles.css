@@ -141,6 +141,16 @@ span {
     top: 40%!important;
 }
 
+.reg-button{
+    position: relative;
+}
+
+.reg-button .reg {
+    position: absolute;
+    left: 50%;
+    top: 72px;
+}
+
 /* =============== register part end =========== */
 
 /* ============= student part start ============= */
