@@ -9,4 +9,16 @@
     .common-para {
         padding: 0 ;
     }
+
+    .course-img img{
+        width: 100%;
+    }
+
+    .c{
+        margin-bottom: 1.6rem;
+    }
+
+    .text{
+        padding:  0 0 0 26px;
+    }
 }
